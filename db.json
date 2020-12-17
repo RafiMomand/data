@@ -29,7 +29,6 @@
     {"price":4000000,"id":"424931","type":"rent","img_src":"https://storage.googleapis.com/material-vignettes.appspot.com/image/26-0.jpg"},
     {"price":4000000,"id":"424932","type":"rent","img_src":"https://storage.googleapis.com/material-vignettes.appspot.com/image/27-0.jpg"},
     {"price":8000000,"id":"424933","type":"rent","img_src":"https://storage.googleapis.com/material-vignettes.appspot.com/image/28-0.jpg"},
-    {"price":9000000,"id":"424934","type":"rent","img_src":"https://storage.googleapis.com/material-vignettes.appspot.com/image/29-0.jpg"},
-    {"price":200000,"id":"424935","type":"buy","img_src":"https://storage.googleapis.com/material-vignettes.appspot.com/image/30-0.jpg"}
+    {"price":9000000,"id":"424934","type":"rent","img_src":"https://storage.googleapis.com/material-vignettes.appspot.com/image/29-0.jpg"}
   ]
 }
