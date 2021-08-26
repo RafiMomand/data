@@ -30,5 +30,215 @@
     {"price":4000000,"id":"424932","type":"Walter henley (white)","img_src":"https://storage.googleapis.com/material-vignettes.appspot.com/image/27-0.jpg"},
     {"price":8000000,"id":"424933","type":"Surf and perf shirt","img_src":"https://storage.googleapis.com/material-vignettes.appspot.com/image/28-0.jpg"},
     {"price":9000000,"id":"424934","type":"Ginger scarf","img_src":"https://storage.googleapis.com/material-vignettes.appspot.com/image/29-0.jpg"}
-  ]
+  ],
+
+"Accessories" :
+  [
+{
+    "price": 45,
+    "id": "0",
+    "type": "Vagabond sack",
+    "img_src": "https://storage.googleapis.com/material-vignettes.appspot.com/image/0-0.jpg"
+  },
+  {
+    "price": 80,
+    "id": "1",
+    "type": "Stella sunglasses",
+    "img_src": "https://storage.googleapis.com/material-vignettes.appspot.com/image/1-0.jpg"
+  },
+  {
+    "price": 11,
+    "id": "2",
+    "type": "Whitney belt",
+    "img_src": "https://storage.googleapis.com/material-vignettes.appspot.com/image/2-0.jpg"
+  },
+  {
+    "price": 8,
+    "id": "3",
+    "type": "Garden strand",
+    "img_src": "https://storage.googleapis.com/material-vignettes.appspot.com/image/3-0.jpg"
+  },
+  {
+    "price": 12,
+    "id": "4",
+    "type": "Strut earrings",
+    "img_src": "https://storage.googleapis.com/material-vignettes.appspot.com/image/4-0.jpg"
+  },
+  {
+    "price": 5,
+    "id": "5",
+    "type": "Varsity socks",
+    "img_src": "https://storage.googleapis.com/material-vignettes.appspot.com/image/5-0.jpg"
+  },
+  {
+    "price": 45,
+    "id": "6",
+    "type": "Weave keyring",
+    "img_src": "https://storage.googleapis.com/material-vignettes.appspot.com/image/6-0.jpg"
+  },
+  {
+    "price": 90,
+    "id": "7",
+    "type": "Gatsby hat",
+    "img_src": "https://storage.googleapis.com/material-vignettes.appspot.com/image/7-0.jpg"
+  },
+  {
+    "price": 70,
+    "id": "8",
+    "type": "Shrug bag",
+    "img_src": "https://storage.googleapis.com/material-vignettes.appspot.com/image/8-0.jpg"
+  }
+],
+  "Kitchen" : 
+  [
+  {
+    "price": 35,
+    "id": "11",
+    "type": "Soothe ceramic set",
+    "img_src": "https://storage.googleapis.com/material-vignettes.appspot.com/image/11-0.jpg"
+  },
+  {
+    "price": 35,
+    "id": "12",
+    "type": "Hurrahs tea set",
+    "img_src": "https://storage.googleapis.com/material-vignettes.appspot.com/image/12-0.jpg"
+  },
+  {
+    "price": 20,
+    "id": "13",
+    "type": "Blue stone mug",
+    "img_src": "https://storage.googleapis.com/material-vignettes.appspot.com/image/13-0.jpg"
+  },
+  {
+    "price": 12,
+    "id": "14",
+    "type": "Rainwater tray",
+    "img_src": "https://storage.googleapis.com/material-vignettes.appspot.com/image/14-0.jpg"
+  },
+  
+  {
+    "price": 45,
+    "id": "18",
+    "type": "Kitchen quattro",
+    "img_src": "https://storage.googleapis.com/material-vignettes.appspot.com/image/18-0.jpg"
+  }
+],
+  "Art" :
+  [
+  {
+    "price": 4,
+    "id": "9",
+    "type": "Gilt desk trio",
+    "img_src": "https://storage.googleapis.com/material-vignettes.appspot.com/image/9-0.jpg"
+  },
+  {
+    "price": 1,
+    "id": "10",
+    "type": "Copper wire rack",
+    "img_src": "https://storage.googleapis.com/material-vignettes.appspot.com/image/10-0.jpg"
+  },
+  {
+    "price": 8,
+    "id": "15",
+    "type": "Chambray napkins",
+    "img_src": "https://storage.googleapis.com/material-vignettes.appspot.com/image/15-0.jpg"
+  }
+],
+  "Home" : 
+  [
+  {
+    "price": 8,
+    "id": "15",
+    "type": "Chambray napkins",
+    "img_src": "https://storage.googleapis.com/material-vignettes.appspot.com/image/15-0.jpg"
+  },
+  {
+    "price": 8,
+    "id": "16",
+    "type": "Succulent planters",
+    "img_src": "https://storage.googleapis.com/material-vignettes.appspot.com/image/16-0.jpg"
+  },
+  {
+    "price": 12,
+    "id": "17",
+    "type": "Quartet table",
+    "img_src": "https://storage.googleapis.com/material-vignettes.appspot.com/image/17-0.jpg"
+  }
+],
+  "Dresses" : 
+  [
+  {
+    "price": 60,
+    "id": "19",
+    "type": "Clay sweater",
+    "img_src": "https://storage.googleapis.com/material-vignettes.appspot.com/image/19-0.jpg"
+  },
+  {
+    "price": 3,
+    "id": "20",
+    "type": "Sea tunic",
+    "img_src": "https://storage.googleapis.com/material-vignettes.appspot.com/image/20-0.jpg"
+  },
+  {
+    "price": 11,
+    "id": "21",
+    "type": "Plaster tunic",
+    "img_src": "https://storage.googleapis.com/material-vignettes.appspot.com/image/21-0.jpg"
+  }
+],
+  "Tops" : 
+  [
+  {
+    "price": 30,
+    "id": "22",
+    "type": "White pinstripe shirt",
+    "img_src": "https://storage.googleapis.com/material-vignettes.appspot.com/image/22-0.jpg"
+  },
+  {
+    "price": 40,
+    "id": "23",
+    "type": "Chambray shirt",
+    "img_src": "https://storage.googleapis.com/material-vignettes.appspot.com/image/23-0.jpg"
+  },
+  {
+    "price": 60,
+    "id": "24",
+    "type": "Seabreeze sweater",
+    "img_src": "https://storage.googleapis.com/material-vignettes.appspot.com/image/24-0.jpg"
+  },
+  {
+    "price": 30,
+    "id": "25",
+    "type": "Gentry jacket",
+    "img_src": "https://storage.googleapis.com/material-vignettes.appspot.com/image/25-0.jpg"
+  },
+  {
+    "price": 80,
+    "id": "28",
+    "type": "Surf and perf shirt",
+    "img_src": "https://storage.googleapis.com/material-vignettes.appspot.com/image/28-0.jpg"
+  },
+  {
+    "price": 9,
+    "id": "29",
+    "type": "Ginger scarf",
+    "img_src": "https://storage.googleapis.com/material-vignettes.appspot.com/image/29-0.jpg"
+  }
+],
+  "Bottom" : 
+  [
+  {
+    "price": 40,
+    "id": "26",
+    "type": "Navy trousers",
+    "img_src": "https://storage.googleapis.com/material-vignettes.appspot.com/image/26-0.jpg"
+  },
+  {
+    "price": 40,
+    "id": "27",
+    "type": "Walter henley (white)",
+    "img_src": "https://storage.googleapis.com/material-vignettes.appspot.com/image/27-0.jpg"
+  }
+  
+]
 }
