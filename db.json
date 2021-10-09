@@ -184,48 +184,6 @@
 			"type": "Ramona crossover",
 			"img_src": "https://storage.googleapis.com/material-vignettes.appspot.com/image/30-0.jpg",
 			"price": 68
-		},
-		{
-			"id": "31",
-			"type": "Chambray shirt",
-			"img_src": "https://storage.googleapis.com/material-vignettes.appspot.com/image/31-0.jpg",
-			"price": 58
-		},
-		{
-			"id": "32",
-			"type": "Classic white collar",
-			"img_src": "https://storage.googleapis.com/material-vignettes.appspot.com/image/32-0.jpg",
-			"price": 58
-		},
-		{
-			"id": "33",
-			"type": "Cerise scallop tee",
-			"img_src": "https://storage.googleapis.com/material-vignettes.appspot.com/image/33-0.jpg",
-			"price": 42
-		},
-		{
-			"id": "34",
-			"type": "Shoulder rolls tee",
-			"img_src": "https://storage.googleapis.com/material-vignettes.appspot.com/image/34-0.jpg",
-			"price": 27
-		},
-		{
-			"id": "35",
-			"type": "Grey slouch tank",
-			"img_src": "https://storage.googleapis.com/material-vignettes.appspot.com/image/35-0.jpg",
-			"price": 24
-		},
-		{
-			"id": "36",
-			"type": "Sunshirt dress",
-			"img_src": "https://storage.googleapis.com/material-vignettes.appspot.com/image/36-0.jpg",
-			"price": 58
-		},
-		{
-			"id": "37",
-			"type": "Fine lines tee",
-			"img_src": "https://storage.googleapis.com/material-vignettes.appspot.com/image/37-0.jpg",
-			"price": 58
 		}
 	]
 }
