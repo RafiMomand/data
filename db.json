@@ -172,18 +172,6 @@
 			"type": "Surf and perf shirt",
 			"img_src": "https://storage.googleapis.com/material-vignettes.appspot.com/image/28-0.jpg",
 			"price": 48
-		},
-		{
-			"id": "29",
-			"type": "Ginger scarf",
-			"img_src": "https://storage.googleapis.com/material-vignettes.appspot.com/image/29-0.jpg",
-			"price": 98
-		},
-		{
-			"id": "30",
-			"type": "Ramona crossover",
-			"img_src": "https://storage.googleapis.com/material-vignettes.appspot.com/image/30-0.jpg",
-			"price": 68
 		}
 	]
 }
